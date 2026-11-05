@@ -1,11 +1,8 @@
 <div align="center">
 
 <a href="https://aitwinlab.org">
-  <img src="https://raw.githubusercontent.com/aitwinlab/.github/main/assets/logo.png" alt="AITwinLab Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/aitwinlab/.github/main/assets/banner.jpg" alt="AITwinLab" width="100%" />
 </a>
-
-# AITwinLab
-### *Researching the Infrastructure for Agentic AI*
 
 [![Website](https://img.shields.io/badge/Website-aitwinlab.org-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aitwinlab.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AITwinLab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/aitwinlab)
@@ -22,6 +19,9 @@
 ---
 
 ## 🔬 Core Research Directions
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/aitwinlab/.github/main/assets/illustration-harness.jpg" alt="Agent = Model + Harness, mirrored into a digital twin" width="90%" /></p>
 
 Our research investigates the gap between foundation models and production deployment in real-world environments:
 
