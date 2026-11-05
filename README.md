@@ -1,11 +1,17 @@
-# AITwinLab — Infrastructure for Agentic AI
-
 <div align="center">
 
+<a href="https://aitwinlab.org">
+  <img src="https://raw.githubusercontent.com/aitwinlab/.github/main/assets/logo.png" alt="AITwinLab Logo" width="120" />
+</a>
+
+# AITwinLab
+### *Researching the Infrastructure for Agentic AI*
+
 [![Website](https://img.shields.io/badge/Website-aitwinlab.org-0F172A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aitwinlab.org)
-[![Founder](https://img.shields.io/badge/Founder-Nguyen_Thanh_Tuan%2C_PhD-1E293B?style=for-the-badge&logo=github)](https://github.com/tuannguyenvku)
-[![Focus](https://img.shields.io/badge/Focus-Trustworthy_Agentic_AI-6366F1?style=for-the-badge)](https://aitwinlab.org)
-[![Location](https://img.shields.io/badge/Location-Da_Nang%2C_Vietnam-0EA5E9?style=for-the-badge)](https://aitwinlab.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AITwinLab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/aitwinlab)
+[![X / Twitter](https://img.shields.io/badge/X-@aitwinlab-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aitwinlab)
+[![Facebook](https://img.shields.io/badge/Facebook-aitwinlab-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/aitwinlab)
+[![YouTube](https://img.shields.io/badge/YouTube-@aitwinlab-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aitwinlab)
 
 <br/>
 
@@ -42,13 +48,18 @@ In collaboration with the **Vietnam-Korea University of ICT (VKU)**, AITwinLab s
 
 ---
 
-## 🌐 Connect & Collaborate
+## 🌐 Official Channels & Connect
 
-- **Official Website**: [aitwinlab.org](https://aitwinlab.org)
-- **Principal Investigator**: [Nguyen Thanh Tuan, PhD](https://tuannguyen.dev) ([@tuannguyenvku](https://github.com/tuannguyenvku))
-- **Inquiries & Collaborations**: [contact@tuannguyen.dev](mailto:contact@tuannguyen.dev)
+| Channel | Link | Handle / Note |
+|---|---|---|
+| 🌐 **Website** | [aitwinlab.org](https://aitwinlab.org) | Research portal & publications |
+| 💼 **LinkedIn** | [linkedin.com/company/aitwinlab](https://linkedin.com/company/aitwinlab) | Professional updates & research highlights |
+| 🐦 **X (Twitter)** | [x.com/aitwinlab](https://x.com/aitwinlab) | `@aitwinlab` — Announcements & papers |
+| 📘 **Facebook** | [facebook.com/aitwinlab](https://facebook.com/aitwinlab) | Community & student workshops |
+| 📺 **YouTube** | [youtube.com/@aitwinlab](https://youtube.com/@aitwinlab) | Talks, seminars & demo sessions |
+| ✉️ **Email** | [contact@tuannguyen.dev](mailto:contact@tuannguyen.dev) | Research collaborations |
 
 ---
 <div align="center">
-  <sub>© 2026 AITwinLab. Open-source research initiatives released under the MIT License.</sub>
+  <sub>© 2026 AITwinLab. Principal Investigator: <a href="https://tuannguyen.dev">Nguyen Thanh Tuan, PhD</a>. Released under the MIT License.</sub>
 </div>
